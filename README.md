@@ -6,7 +6,10 @@ CDGA 考试的题，
 链接：https://pan.quark.cn/s/7c5ac1963f6c
 提取码：TG1M
 如果由有帮助可以打赏谢谢
-![DAMA 原书第二版修订版|300](./微信图片_20261112113143_184_549.jpg)
+<p align="center">
+  <img src="a.jpg" style="width: 20%; height: auto;" />
+</p>
+
 ## 认准图片：
 
  
